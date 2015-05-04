@@ -7,6 +7,7 @@ A library for querying Avro data with [Spark SQL](http://spark.apache.org/docs/l
 ## Requirements
 
 This library requires Spark 1.2+
+Branch out for Spark 1.2.x
 
 ## Linking
 You can link against this library in your program at the following coordiates:
